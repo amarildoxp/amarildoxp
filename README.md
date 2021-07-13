@@ -23,22 +23,4 @@
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
-<a href="https://github.com/amarildoxp/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.amarildoxp1.vercel.app/api?username=amarildoxp&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-<a href="https://github.com/amarildoxp/github-readme-stats">
-  <!-- Change the `github-readme-stats.amarildoxp1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.amarildoxp1.vercel.app/api/top-langs/?username=amarildoxp&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/amarildoxp/github-readme-stats">
-  <!-- Change the `github-readme-stats.amarildoxp1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.amarildoxp1.vercel.app/api/pin/?username=amarildoxp&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/amarildoxp/amarildoxp.github.io">
-  <!-- Change the `github-readme-stats.amarildoxp1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.amarildoxp1.vercel.app/api/pin/?username=amarildoxp&repo=amarildoxp.github.io&theme=material-palenight" />
-</a>
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarildoxp&layout=compact)](https://github.com/amarildoxp/github-readme-stats)
