@@ -2,9 +2,9 @@
 <h3 align="center">Carreira desenvolvida na área de Tecnologia da Informação, com ampla experiência no gerenciamento de projetos, e suporte na área.</h3>
 
 - 👋 Olá, sou @amarildo
-- 🌱 Atualmente estou aprendendo Spring React, HTML, CSS e Javascript.
-- 💞️ Estou procurando colaborar e aprender com a comunidade de programação.
-- 📫 Contato: amarildosousaxp02@hotmail.com
+-  Atualmente estou aprendendo Spring React, HTML, CSS e Javascript.
+-  Estou procurando colaborar e aprender com a comunidade de programação.
+-  Contato: amarildosousaxp02@hotmail.com
 
 
 <h3 align="left">Connect with me:</h3>
