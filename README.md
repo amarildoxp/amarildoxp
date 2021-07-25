@@ -24,3 +24,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amarildoxp&layout=compact)](https://github.com/amarildoxp/github-readme-stats)
+
+![dino](https://user-images.githubusercontent.com/84931248/126885004-2119c4ce-80c4-46d6-b00b-fb56a8839eda.gif)
+
